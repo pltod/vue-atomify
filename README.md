@@ -30,6 +30,7 @@ This project combines
 * Component development with Vue.js presented in:
 
 > https://github.com/vuejs/vue-component-example
+
 > https://github.com/vuejs/vue-browserify-example
 
 * Build process with Atomify presented in:
