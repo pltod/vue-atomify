@@ -17,7 +17,7 @@ Choose one of the possible workflows
 
 > With npm: **npm run serve**
 
-> With grunt: **grunt**
+> With gulp: **gulp**
 
 
 If the browser does not open automatically open it manually at **http://localhost:1337/index.html** to see the running app.
